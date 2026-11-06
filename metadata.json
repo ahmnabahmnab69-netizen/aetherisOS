@@ -1,0 +1,8 @@
+{
+  "name": "Aetheris Liquid OS",
+  "description": "A pristine virtual desktop operating system crafted with a liquid glass user interface, organic fluid dynamics, modular multitasking windows, and integrated apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
